@@ -12,7 +12,8 @@ Oi, bem-vindo(a) ao meu perfil! Eu me chamo Gabriela Lima e sou cientista da com
 ## 🌱 Atualmente Aprendendo
 
 - Análise de dados com Python;
-- Computação em nuvem.
+- Computação em nuvem;
+- Inteligência Artificial.
 
 ## 📫 Como me encontrar
 
